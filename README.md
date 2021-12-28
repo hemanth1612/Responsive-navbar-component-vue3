@@ -1,4 +1,4 @@
-# navigation-menu
+# responsive navbar-component
 
 ## Project setup
 ```
